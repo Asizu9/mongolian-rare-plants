@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="mn"><head><meta charset="utf-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ховор ургамлын сан</title>
+<link rel="stylesheet" href="styles.css">
+
+</head><body>
+
+<!-- 1. ҮЙЛЧИЛГЭЭНИЙ НӨХЦӨЛ ПОП-АП ЦОНХ -->
+<div id="termsModal" class="terms-overlay">
+    <div class="terms-box">
+        <div class="terms-header">
+            <h2>Өмнөх үг</h2>
+            <button id="closeTermsX" class="terms-close-btn" aria-label="Хаах">✕</button>
+        </div>
+        <div id="termsScrollBox" class="terms-content">
+            <h2>Тавтай морил!</h2>
+            <h3 class="assessment-heading">Улаан дансны үнэлгээ</h3>
+            <div class="assessment-scroll" role="region" aria-label="Улаан дансны үнэлгээний хүснэгт, хажуу тийш гүйлгэж үзнэ" tabindex="0">
+                <table class="assessment-table">
+                    <caption>Хүснэгт 2. Монгол орны ургамлын Улаан дансны 4-р цувралын үнэлгээний төлөв байдал</caption>
+                    <thead><tr><th scope="col">№</th><th scope="col">Улаан дансны бүс нутгийн үнэлгээний зэрэглэл</th><th scope="col">Гуурст ургамал</th><th scope="col">Хөвд</th><th scope="col">Замаг</th><th scope="col">Мөөг</th><th scope="col">Хаг</th><th scope="col">Нийт зүйл</th><th scope="col">Эзлэх хувь</th></tr></thead>
+                    <tbody><tr class="assessment-cr"><td>1</td><th scope="row">Устаж байгаа (CR)</th><td>19</td><td>0</td><td>0</td><td>2</td><td>0</td><td>21</td><td>1.46</td></tr>
+<tr class="assessment-en"><td>2</td><th scope="row">Устаж болзошгүй (EN)</th><td>57</td><td>0</td><td>0</td><td>2</td><td>0</td><td>59</td><td>4.10</td></tr>
+<tr class="assessment-vu"><td>3</td><th scope="row">Эмзэг (VU)</th><td>135</td><td>1</td><td>4</td><td>1</td><td>0</td><td>141</td><td>9.81</td></tr>
+<tr class="assessment-nt"><td>4</td><th scope="row">Ховордож болзошгүй (NT)</th><td>155</td><td>2</td><td>6</td><td>11</td><td>7</td><td>181</td><td>12.60</td></tr>
+<tr class="assessment-lc"><td>5</td><th scope="row">Анхааралд өртөхөөргүй (LC)</th><td>685</td><td>60</td><td>14</td><td>9</td><td>23</td><td>791</td><td>55.09</td></tr>
+<tr class="assessment-dd"><td>6</td><th scope="row">Мэдээлэл дутмаг (DD)</th><td>226</td><td>0</td><td>0</td><td>4</td><td>0</td><td>230</td><td>16.02</td></tr>
+<tr class="assessment-na"><td>7</td><th scope="row">Үнэлэх боломжгүй (NA)</th><td>13</td><td>0</td><td>0</td><td>0</td><td>0</td><td>13</td><td>0.92</td></tr></tbody>
+                    <tfoot><tr><th scope="row" colspan="2">Бүгд</th><td>1290</td><td>63</td><td>24</td><td>29</td><td>30</td><td>1436</td><td>100.0</td></tr></tfoot>
+                </table>
+            </div>
+            <p class="table-hint">↔ Хүснэгтийг хажуу тийш гүйлгэж бүх баганыг үзнэ үү.</p>
+            <h3><strong>Монгол орны ургамлын улаан данс:</strong></h3>
+            <p>Дэлхий Байгаль Хамгаалах Холбоо (ДБХХ)-ийн Улаан дансны шалгуураар 2012–2023 онд 6966 зүйл ургамлыг үнэлэхэд устаж байгаа 122, устаж болзошгүй 355, эмзэг 575, ховордож болзошгүй 663 зүйл багтсан байна.</p>
+            <h3><strong>Монгол улсын улаан ном:</strong></h3>
+            <p>Нэн ховор, ховор амьтан, ургамлын талаарх төрийн бодлого, холбогдох хууль тогтоомжийн хэрэгжилтийг шинжлэх ухааны үндэслэлтэйгээр зохион байгуулах зорилгоор Монгол улсын улаан номыг шинэчлэн бичсэн. Нийт амьтан-110, ургамал-192 зүйл тус тус орсон болно.</p>
+            <p class="reading-hint">(Санамж: Та энэхүү мэдээллийг хамгийн доод тал хүртэл нь гүйлгэж уншсаны дараа зөвшөөрөх болон хаах товч идэвхжих болно!)</p>
+        </div>
+        <div class="terms-footer">
+            <button id="acceptTermsBtn" class="terms-accept-btn" disabled>Бүрэн уншиж танилцлаа</button>
+        </div>
+    </div>
+</div>
+
+<!-- ВЭБСАЙТНЫ ҮНДСЭН КОД -->
+<header class="site-header wrap">
+<a class="brand" href="#" aria-label="Нүүр хуудас"><span class="brand-mark">✳</span><span>Ургамлын сан<small>MONGOLIAN BOTANICAL ARCHIVE</small></span></a>
+<a class="nav-link" href="#redbook">Сантай танилцах <span aria-hidden="true">↗</span></a>
+</header>
+<section id="home" class="wrap">
+<div class="intro">
+<div class="eyebrow"><span></span> БАЙГАЛИЙН ӨВ · МОНГОЛ ОРОН</div>
+<h1>Ховор ургамал.<br><em>Хосгүй байгаль.</em></h1>
+<p class="sub">Эх орныхоо ховор ургамлыг нээж, таньж,<br class="desktop-break"> хамгаалах аялал эндээс эхэлнэ.</p>
+<a class="primary-link" href="#redbook">Ургамлуудыг нээх <span aria-hidden="true">↗</span></a>
+<div class="hero-meta"><span><strong id="plant-total">135</strong> дээд ургамал</span><i></i><span><strong>2013</strong> Монгол улсын Улаан ном</span></div>
+</div>
+<div class="collection-heading"><span>САНГ СУДЛАХ</span><span>Гурван өнцөг. Нэг байгаль.</span></div>
+<div class="tiles">
+<button class="tile t1" data-go="redbook"><span class="tile-top"><span class="ic" aria-hidden="true">📕</span><span class="tile-index">01 / УЛААН НОМ</span><span class="tile-arrow" aria-hidden="true">↗</span></span><h2>Монгол улсын Улаан ном</h2><p>Нэн ховор, ховор ургамлын дэлгэрэнгүй мэдээлэл, зураг.</p><span class="n" data-n="redbook"></span></button>
+<button class="tile t2" data-go="redlist"><span class="tile-top"><span class="ic" aria-hidden="true">🌍</span><span class="tile-index">02 / УЛААН ДАНС</span><span class="tile-arrow" aria-hidden="true">↗</span></span><h2>Дэлхийн ургамлын Улаан дансны сан</h2><p>ДБХХ (IUCN)-ын үнэлгээтэй ургамлууд, олон улс ба бүс нутгийн ангилал.</p><span class="n" data-n="redlist"></span></button>
+<button class="tile t3" data-go="regions"><span class="tile-top"><span class="ic" aria-hidden="true">🗺️</span><span class="tile-index">03 / БҮС НУТАГ</span><span class="tile-arrow" aria-hidden="true">↗</span></span><h2>Ургах бүс нутаг</h2><p>Хангай, Хэнтий, Монгол Алтай зэрэг бүс нутаг, ургах орчноор нь хайна.</p><span class="n" data-n="regions"></span></button>
+</div>
+
+<!-- ЗӨВХӨН НҮҮР ХУУДСАНД БАЙРЛАХ FOOTER -->
+<footer id="main-footer">
+    <div class="school-credit">
+        <img src="logo.png" alt="Сургуулийн лого" >
+        <span >
+            Хэрэглээний шинжлэх ухааны сургууль <br> Аялал жуулчлалын 3-р курсын оюутнууд
+        </span>
+    </div>
+    <span class="footer-note">Байгалиа таньж, хамтдаа хамгаалъя. ↗</span>
+</footer>
+</section>
+
+<!-- ДАНС / ДЭЛГЭРЭНГҮЙ ХАРАХ ХУУДАС (Энд сургуулийн лого харагдахгүй) -->
+<section id="view" class="wrap" hidden>
+<div class="top"><button class="back" id="back">← Нүүр</button><h1 id="vt"></h1></div>
+<div class="bar"><div class="f"><input id="q" type="search" placeholder="Нэр, латин нэр, овгоор хайх" aria-label="Хайх">
+<select id="cat" data-v="redbook" aria-label="Улаан номын ангилал"></select>
+<select id="iw" data-v="redlist" aria-label="Олон улсын үнэлгээ"></select>
+<select id="ir" data-v="redlist" aria-label="Бүс нутгийн үнэлгээ"></select>
+<select id="fam" data-v="redbook redlist" aria-label="Овог"></select>
+<select id="hab" data-v="regions" aria-label="Ургах орчин"></select></div>
+<div class="chips" id="regs" data-v="regions" role="group" aria-label="Бүс нутаг"></div>
+<div id="n" aria-live="polite"></div></div>
+<main id="grid"></main>
+<footer id="ft"></footer></section>
+<dialog id="dlg"><button class="x" id="cl">Хаах</button><div id="det"></div></dialog>
+
+<!-- ГҮЙЛГЭЖ УНШИЖ ДУУССАНЫГ ШАЛГАХ СКРИПТ -->
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    const scrollBox = document.getElementById("termsScrollBox");
+    const acceptBtn = document.getElementById("acceptTermsBtn");
+    const closeX = document.getElementById("closeTermsX");
+    const modal = document.getElementById("termsModal");
+
+    function updateReadState() {
+        if (scrollBox.scrollTop + scrollBox.clientHeight >= scrollBox.scrollHeight - 5) {
+            acceptBtn.disabled = false;
+            acceptBtn.classList.add("active");
+            closeX.style.display = "block";
+        }
+    }
+    scrollBox.addEventListener("scroll", updateReadState);
+    window.addEventListener("resize", updateReadState);
+    updateReadState();
+
+    function closeModal() {
+        if (!acceptBtn.disabled) {
+            modal.style.display = "none";
+        }
+    }
+
+    acceptBtn.addEventListener("click", closeModal);
+    closeX.addEventListener("click", closeModal);
+});
+</script>
+
+<script src="data/plants.js"></script>
+<script src="script.js"></script></body></html>
