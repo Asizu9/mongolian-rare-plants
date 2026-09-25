@@ -68,7 +68,6 @@ $('#grid').onclick=e=>{
   const p=D.find(p=>p.no===Number(b.dataset.no));
   const row=(k,v)=>v?`<div class="r"><b>${esc(k)}</b>${esc(v)}</div>`:'';
   $('#det').innerHTML=p.images.map(src=>`<div class="hero ${p.imageSource ? 'plant-photo' : ''}"><img src="${esc(src)}" alt="${esc(p.mn)} — ургамлын зураг"></div>`).join('')+
-    `<div class="cap">${p.imageSource ? `Зургийн эх: <a class="source-link" href="${esc(p.imageSource.file)}#page=${p.imageSource.page}" target="_blank" rel="noopener">BYAMBAA.pdf · ${p.imageSource.page}-р хуудас ↗</a>` : 'Эх номын зураг, тархацын газрын зураг'} · №${p.no}</div>`+
     (p.referenceImages ? `<details class="reference-map"><summary>Улаан номын тархацын зураг, эх дүрслэл</summary>${p.referenceImages.map(src=>`<img src="${esc(src)}" alt="${esc(p.mn)} — Улаан номын тархацын зураг, эх дүрслэл" loading="lazy">`).join('')}</details>` : '')+
     `<div class="dl"><h2>${esc(p.mn)}</h2><div class="la">${esc(p.laFull)}</div>`+
     row('Овог',`${p.fam} — ${p.famMN}`)+row('Бүлэг',p.division)+
