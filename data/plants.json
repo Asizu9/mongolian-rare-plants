@@ -3,7 +3,7 @@
     "no": 1,
     "mn": "ӨРГӨН ОЙМ",
     "images": [
-      "assets/plants/001-1.jpeg"
+      "assets/byambaa/001.jpeg"
     ],
     "pages": [
       222,
@@ -65,14 +65,22 @@
     "src": "Улаан данс",
     "col": [],
     "mo": null,
-    "img": "assets/plants/001-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/001.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/001-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 1,
+      "label": "Өргөн ойм"
+    }
   },
   {
     "no": 2,
     "mn": "ЮЛДЭН ШҮҮДРИЙН ОЙМ",
     "images": [
-      "assets/plants/002-1.jpeg"
+      "assets/byambaa/002.jpeg"
     ],
     "pages": [
       224,
@@ -135,14 +143,22 @@
     "src": "Улаан данс",
     "col": [],
     "mo": null,
-    "img": "assets/plants/002-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/002.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/002-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 1,
+      "label": "Юлдэн шүүдрийн ойм"
+    }
   },
   {
     "no": 3,
     "mn": "БАЛУУН ШИВЭРСЭН",
     "images": [
-      "assets/plants/003-1.jpeg"
+      "assets/byambaa/003.jpeg"
     ],
     "pages": [
       225,
@@ -204,14 +220,22 @@
     "src": "Улаан данс",
     "col": [],
     "mo": null,
-    "img": "assets/plants/003-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/003.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/003-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 1,
+      "label": "Балуун шивэрсэн"
+    }
   },
   {
     "no": 4,
     "mn": "СИБИРЬ ЖОДОО",
     "images": [
-      "assets/plants/004-1.jpeg"
+      "assets/byambaa/004.jpeg"
     ],
     "pages": [
       226,
@@ -274,14 +298,22 @@
     "src": "Улаан данс",
     "col": [],
     "mo": null,
-    "img": "assets/plants/004-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/004.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/004-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 2,
+      "label": "Сибирь жодоо"
+    }
   },
   {
     "no": 5,
     "mn": "ДАГУУР ШИНЭС",
     "images": [
-      "assets/plants/005-1.jpeg"
+      "assets/byambaa/005.jpeg"
     ],
     "pages": [
       227,
@@ -343,14 +375,22 @@
     "src": "Улаан данс",
     "col": [],
     "mo": null,
-    "img": "assets/plants/005-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/005.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/005-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 2,
+      "label": "Дагуур шинэс"
+    }
   },
   {
     "no": 6,
     "mn": "ОДОЙ НАРС",
     "images": [
-      "assets/plants/006-1.jpeg"
+      "assets/byambaa/006.jpeg"
     ],
     "pages": [
       229,
@@ -412,14 +452,22 @@
     "src": "Улаан данс",
     "col": [],
     "mo": null,
-    "img": "assets/plants/006-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/006.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/006-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 2,
+      "label": "Одой нарс"
+    }
   },
   {
     "no": 7,
     "mn": "ӨРГӨННАВЧИТ ТУТАРГАНА",
     "images": [
-      "assets/plants/007-1.jpeg"
+      "assets/byambaa/007.jpeg"
     ],
     "pages": [
       230,
@@ -481,14 +529,22 @@
     "src": "Улаан данс",
     "col": [],
     "mo": null,
-    "img": "assets/plants/007-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/007.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/007-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 3,
+      "label": "Өргөн навчит тутаргана"
+    }
   },
   {
     "no": 8,
     "mn": "ХЭНТИЙН БИЕЛИГӨВС",
     "images": [
-      "assets/plants/008-1.jpeg"
+      "assets/byambaa/008.jpeg"
     ],
     "pages": [
       231,
@@ -555,14 +611,22 @@
     "src": "Улаан ном",
     "col": [],
     "mo": null,
-    "img": "assets/plants/008-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/008.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/008-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 3,
+      "label": "Хэнтийн биелиг өвс"
+    }
   },
   {
     "no": 9,
     "mn": "ЛИТВИНОВЫН БОТУУЛЬ",
     "images": [
-      "assets/plants/009-1.jpeg"
+      "assets/byambaa/009.jpeg"
     ],
     "pages": [
       233,
@@ -626,14 +690,22 @@
     "src": "Улаан ном",
     "col": [],
     "mo": null,
-    "img": "assets/plants/009-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/009.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/009-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 3,
+      "label": "Литвиновын ботууль"
+    }
   },
   {
     "no": 10,
     "mn": "ФЕДЧЕНКОГИЙН ЦАГААНСУЛЬ",
     "images": [
-      "assets/plants/010-1.jpeg"
+      "assets/byambaa/010.jpeg"
     ],
     "pages": [
       234,
@@ -697,14 +769,22 @@
     "src": "Улаан ном",
     "col": [],
     "mo": null,
-    "img": "assets/plants/010-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/010.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/010-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 4,
+      "label": "Федченконгийн цагаансуль"
+    }
   },
   {
     "no": 11,
     "mn": "ИХ БУШИЛЗ",
     "images": [
-      "assets/plants/011-1.jpeg"
+      "assets/byambaa/011.jpeg"
     ],
     "pages": [
       235,
@@ -769,14 +849,22 @@
     "src": "Улаан данс",
     "col": [],
     "mo": null,
-    "img": "assets/plants/011-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/011.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/011-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 4,
+      "label": "Ихбушилж"
+    }
   },
   {
     "no": 12,
     "mn": "БАГА УЛАЛЖ",
     "images": [
-      "assets/plants/012-1.jpeg"
+      "assets/byambaa/012.jpeg"
     ],
     "pages": [
       237,
@@ -839,14 +927,22 @@
     "src": "Улаан данс",
     "col": [],
     "mo": null,
-    "img": "assets/plants/012-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/012.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/012-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 4,
+      "label": "Бага улалж"
+    }
   },
   {
     "no": 13,
     "mn": "ЦАГААН УЛАЛЖ",
     "images": [
-      "assets/plants/013-1.jpeg"
+      "assets/byambaa/013.jpeg"
     ],
     "pages": [
       238,
@@ -907,14 +1003,22 @@
     "src": "Улаан ном",
     "col": [],
     "mo": null,
-    "img": "assets/plants/013-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/013.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/013-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 5,
+      "label": "Цагаан улалж"
+    }
   },
   {
     "no": 14,
     "mn": "ЭГЭЛ ГОДИЛ-ӨВС",
     "images": [
-      "assets/plants/014-1.jpeg"
+      "assets/byambaa/014.jpeg"
     ],
     "pages": [
       239,
@@ -981,14 +1085,22 @@
     "src": "Улаан данс",
     "col": [],
     "mo": null,
-    "img": "assets/plants/014-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/014.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/014-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 5,
+      "label": "Эгэл годил өвс"
+    }
   },
   {
     "no": 15,
     "mn": "ЧАС-УЛААН АЛТАНДУСАЛ",
     "images": [
-      "assets/plants/015-1.jpeg"
+      "assets/byambaa/015.jpeg"
     ],
     "pages": [
       241,
@@ -1050,14 +1162,22 @@
     "src": "Улаан данс",
     "col": [],
     "mo": null,
-    "img": "assets/plants/015-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/015.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/015-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 5,
+      "label": "Час улаан алтан судал"
+    }
   },
   {
     "no": 16,
     "mn": "СИБИРЬ АГДАРГАНА",
     "images": [
-      "assets/plants/016-1.jpeg"
+      "assets/byambaa/016.jpeg"
     ],
     "pages": [
       242,
@@ -1121,14 +1241,22 @@
     "src": "Улаан ном",
     "col": [],
     "mo": null,
-    "img": "assets/plants/016-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/016.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/016-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 6,
+      "label": "Сибирь агдаргана"
+    }
   },
   {
     "no": 17,
     "mn": "ГИЕНИЙ ХАВРЫНШАР",
     "images": [
-      "assets/plants/017-1.jpeg"
+      "assets/byambaa/017.jpeg"
     ],
     "pages": [
       243,
@@ -1194,14 +1322,22 @@
     "src": "Улаан данс",
     "col": [],
     "mo": null,
-    "img": "assets/plants/017-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/017.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/017-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 6,
+      "label": "Гиений хаврын шар"
+    }
   },
   {
     "no": 18,
     "mn": "САРМИСАН СОНГИНО",
     "images": [
-      "assets/plants/018-1.jpeg"
+      "assets/byambaa/018.jpeg"
     ],
     "pages": [
       245,
@@ -1263,14 +1399,22 @@
     "src": "Улаан данс",
     "col": [],
     "mo": null,
-    "img": "assets/plants/018-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/018.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/018-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 6,
+      "label": "Сармисан сонгино"
+    }
   },
   {
     "no": 19,
     "mn": "ПОТАНИНЫ САРААНА",
     "images": [
-      "assets/plants/019-1.jpeg"
+      "assets/byambaa/019.jpeg"
     ],
     "pages": [
       246,
@@ -1337,14 +1481,22 @@
     "src": "Улаан ном",
     "col": [],
     "mo": null,
-    "img": "assets/plants/019-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/019.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/019-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 7,
+      "label": "Потанины сараана"
+    }
   },
   {
     "no": 20,
     "mn": "ЦӨӨНМӨЧИРТ ХЭРЭЭНҮД",
     "images": [
-      "assets/plants/020-1.jpeg"
+      "assets/byambaa/020.jpeg"
     ],
     "pages": [
       247,
@@ -1409,14 +1561,22 @@
     "src": "Улаан ном",
     "col": [],
     "mo": null,
-    "img": "assets/plants/020-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/020.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/020-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 7,
+      "label": "Цөөн мөчирт хэрээнүд"
+    }
   },
   {
     "no": 21,
     "mn": "КЕЙСКИЙН ХОНХОНЦОР",
     "images": [
-      "assets/plants/021-1.jpeg"
+      "assets/byambaa/021.jpeg"
     ],
     "pages": [
       249,
@@ -1480,14 +1640,22 @@
     "src": "Улаан данс",
     "col": [],
     "mo": null,
-    "img": "assets/plants/021-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/021.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/021-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 7,
+      "label": "Кейскийн хонхонцор"
+    }
   },
   {
     "no": 22,
     "mn": "ХУРЦДЭЛБЭЭТ ЦАХИЛДАГ",
     "images": [
-      "assets/plants/022-1.jpeg"
+      "assets/byambaa/022.jpeg"
     ],
     "pages": [
       250,
@@ -1551,14 +1719,22 @@
     "src": "Улаан ном",
     "col": [],
     "mo": null,
-    "img": "assets/plants/022-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/022.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/022-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 8,
+      "label": "Хурч дэлбээт цахилдаг"
+    }
   },
   {
     "no": 23,
     "mn": "ТОМЦЭЦЭГТ СААДГАНЦЭЦЭГ",
     "images": [
-      "assets/plants/023-1.jpeg"
+      "assets/byambaa/023.jpeg"
     ],
     "pages": [
       252,
@@ -1623,14 +1799,22 @@
     "src": "Улаан данс",
     "col": [],
     "mo": null,
-    "img": "assets/plants/023-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/023.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/023-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 8,
+      "label": "Том цэцэгт саадганцэцэг"
+    }
   },
   {
     "no": 24,
     "mn": "ШАР СААДГАНЦЭЦЭГ",
     "images": [
-      "assets/plants/024-1.jpeg"
+      "assets/byambaa/024.jpeg"
     ],
     "pages": [
       253,
@@ -1693,14 +1877,22 @@
     "src": "Улаан данс",
     "col": [],
     "mo": null,
-    "img": "assets/plants/024-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/024.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/024-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 8,
+      "label": "Шар саадганцэцэг"
+    }
   },
   {
     "no": 25,
     "mn": "БУЛЦУУТ ТҮДЭНХАВХ",
     "images": [
-      "assets/plants/025-1.jpeg"
+      "assets/byambaa/025.jpeg"
     ],
     "pages": [
       254,
@@ -1763,14 +1955,22 @@
     "src": "Улаан данс",
     "col": [],
     "mo": null,
-    "img": "assets/plants/025-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/025.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/025-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 9,
+      "label": "Булцуут түдэнхавх"
+    }
   },
   {
     "no": 26,
     "mn": "ЦӨӨНЦЭЦЭГТ ГАНЦААХАЙ",
     "images": [
-      "assets/plants/026-1.jpeg"
+      "assets/byambaa/026.jpeg"
     ],
     "pages": [
       256,
@@ -1832,14 +2032,22 @@
     "src": "Улаан ном",
     "col": [],
     "mo": null,
-    "img": "assets/plants/026-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/026.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/026-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 9,
+      "label": "Цөөн цэцэгт ганцаахай"
+    }
   },
   {
     "no": 27,
     "mn": "УЛААН САРВУУ-ҮНДЭС",
     "images": [
-      "assets/plants/027-1.jpeg"
+      "assets/byambaa/027.jpeg"
     ],
     "pages": [
       257,
@@ -1901,14 +2109,22 @@
     "src": "Улаан ном",
     "col": [],
     "mo": null,
-    "img": "assets/plants/027-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/027.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/027-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 9,
+      "label": "Улаан сарвуу үндэс"
+    }
   },
   {
     "no": 28,
     "mn": "ФУКСИЙН ЦАХИРАМ",
     "images": [
-      "assets/plants/028-1.jpeg"
+      "assets/byambaa/028.jpeg"
     ],
     "pages": [
       258,
@@ -1971,14 +2187,22 @@
     "src": "Улаан данс",
     "col": [],
     "mo": null,
-    "img": "assets/plants/028-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/028.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/028-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 10,
+      "label": "Фуксийн цахирам"
+    }
   },
   {
     "no": 29,
     "mn": "ЧАС-УЛААН САРВУУ-ҮНДЭС",
     "images": [
-      "assets/plants/029-1.jpeg"
+      "assets/byambaa/029.jpeg"
     ],
     "pages": [
       259,
@@ -2042,14 +2266,22 @@
     "src": "Улаан ном",
     "col": [],
     "mo": null,
-    "img": "assets/plants/029-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/029.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/029-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 10,
+      "label": "Час улаан сарвуу үндэс"
+    }
   },
   {
     "no": 30,
     "mn": "ЭЛДЭВНАВЧИТ УЛИАС [ТООРОЙ]",
     "images": [
-      "assets/plants/030-1.jpeg"
+      "assets/byambaa/030.jpeg"
     ],
     "pages": [
       261,
@@ -2118,14 +2350,22 @@
     "src": "Улаан данс",
     "col": [],
     "mo": null,
-    "img": "assets/plants/030-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/030.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/030-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 10,
+      "label": "Элдэв навчит улиас"
+    }
   },
   {
     "no": 31,
     "mn": "НООСОНШИЛБЭТ БАГЛУУР",
     "images": [
-      "assets/plants/031-1.jpeg"
+      "assets/byambaa/031.jpeg"
     ],
     "pages": [
       262,
@@ -2188,14 +2428,22 @@
     "src": "Улаан данс",
     "col": [],
     "mo": null,
-    "img": "assets/plants/031-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/031.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/031-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 11,
+      "label": "Ноосон шилбэт баглуур"
+    }
   },
   {
     "no": 32,
     "mn": "ӨНДӨР БАГЛУУР",
     "images": [
-      "assets/plants/032-1.jpeg"
+      "assets/byambaa/032.jpeg"
     ],
     "pages": [
       264,
@@ -2257,14 +2505,22 @@
     "src": "Улаан ном",
     "col": [],
     "mo": null,
-    "img": "assets/plants/032-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/032.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/032-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 11,
+      "label": "Өндөр баглуур"
+    }
   },
   {
     "no": 33,
     "mn": "ГӨЛГӨР ИВЭРГЭНЭ",
     "images": [
-      "assets/plants/033-1.jpeg"
+      "assets/byambaa/033.jpeg"
     ],
     "pages": [
       266,
@@ -2328,14 +2584,22 @@
     "src": "Улаан ном",
     "col": [],
     "mo": null,
-    "img": "assets/plants/033-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/033.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/033-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 11,
+      "label": "Гөлгөр ивэргэнэ"
+    }
   },
   {
     "no": 34,
     "mn": "ЗҮҮНГАРЫН БАШИР",
     "images": [
-      "assets/plants/034-1.jpeg"
+      "assets/byambaa/034.jpeg"
     ],
     "pages": [
       267,
@@ -2399,14 +2663,22 @@
     "src": "Улаан ном",
     "col": [],
     "mo": null,
-    "img": "assets/plants/034-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/034.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/034-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 11,
+      "label": "Зүүнгарын башир"
+    }
   },
   {
     "no": 35,
     "mn": "ГЕЛЬЦЕРИЙН БАШИР",
     "images": [
-      "assets/plants/035-1.jpeg"
+      "assets/byambaa/035.jpeg"
     ],
     "pages": [
       268,
@@ -2469,14 +2741,22 @@
     "src": "Улаан ном",
     "col": [],
     "mo": null,
-    "img": "assets/plants/035-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/035.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/035-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 12,
+      "label": "Гельцерийн башир"
+    }
   },
   {
     "no": 36,
     "mn": "ДӨРВӨЛСӨН БӨЛБӨӨ",
     "images": [
-      "assets/plants/036-1.jpeg"
+      "assets/byambaa/036.jpeg"
     ],
     "pages": [
       269,
@@ -2542,14 +2822,22 @@
     "src": "Улаан данс",
     "col": [],
     "mo": null,
-    "img": "assets/plants/036-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/036.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/036-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 12,
+      "label": "Дөрвөлсөн бөлбөө"
+    }
   },
   {
     "no": 37,
     "mn": "БЯЦХАН СААХУУ ЦЭЦЭГ",
     "images": [
-      "assets/plants/037-1.jpeg"
+      "assets/byambaa/037.jpeg"
     ],
     "pages": [
       270,
@@ -2615,14 +2903,22 @@
     "src": "Улаан данс",
     "col": [],
     "mo": null,
-    "img": "assets/plants/037-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/037.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/037-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 12,
+      "label": "Бяцхан саахуу цэцэг"
+    }
   },
   {
     "no": 38,
     "mn": "ЦАГААН ЦЭЭНЭ",
     "images": [
-      "assets/plants/038-1.jpeg"
+      "assets/byambaa/038.jpeg"
     ],
     "pages": [
       272,
@@ -2687,14 +2983,22 @@
     "src": "Улаан данс",
     "col": [],
     "mo": null,
-    "img": "assets/plants/038-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/038.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/038-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 13,
+      "label": "Цагаан цээнэ"
+    }
   },
   {
     "no": 39,
     "mn": "НАНГИАД ЖАМЪЯНМЯДАГ",
     "images": [
-      "assets/plants/039-1.jpeg"
+      "assets/byambaa/039.jpeg"
     ],
     "pages": [
       273,
@@ -2756,14 +3060,22 @@
     "src": "Улаан ном",
     "col": [],
     "mo": null,
-    "img": "assets/plants/039-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/039.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/039-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 13,
+      "label": "Нангиад жамьяанмядаг"
+    }
   },
   {
     "no": 40,
     "mn": "ГАНБОЛДЫН УДВАЛ",
     "images": [
-      "assets/plants/040-1.jpeg"
+      "assets/byambaa/040.jpeg"
     ],
     "pages": [
       274,
@@ -2828,14 +3140,22 @@
     "src": "Улаан данс",
     "col": [],
     "mo": null,
-    "img": "assets/plants/040-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/040.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/040-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 13,
+      "label": "Ганболдын удвал"
+    }
   },
   {
     "no": 41,
     "mn": "КОМАРОВЫН ХОРС",
     "images": [
-      "assets/plants/041-1.jpeg"
+      "assets/byambaa/041.jpeg"
     ],
     "pages": [
       276,
@@ -2896,14 +3216,22 @@
     "src": "Улаан ном",
     "col": [],
     "mo": null,
-    "img": "assets/plants/041-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/041.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/041-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 14,
+      "label": "Комаровын хорс"
+    }
   },
   {
     "no": 42,
     "mn": "КУЗНЕЦОВЫН ХОРС",
     "images": [
-      "assets/plants/042-1.jpeg"
+      "assets/byambaa/042.jpeg"
     ],
     "pages": [
       277,
@@ -2968,14 +3296,22 @@
     "src": "Улаан данс",
     "col": [],
     "mo": null,
-    "img": "assets/plants/042-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/042.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/042-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 14,
+      "label": "Кузнецовын хорс"
+    }
   },
   {
     "no": 43,
     "mn": "МОХООДУУ ЯРГУЙЖИН",
     "images": [
-      "assets/plants/043-1.jpeg"
+      "assets/byambaa/043.jpeg"
     ],
     "pages": [
       278,
@@ -3034,14 +3370,22 @@
     "src": "Улаан ном",
     "col": [],
     "mo": null,
-    "img": "assets/plants/043-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/043.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/043-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 14,
+      "label": "Мохоодуу яргуйжин"
+    }
   },
   {
     "no": 44,
     "mn": "ЦУУЛБАРНАВЧИСТ ЗОГДОР-ӨВС",
     "images": [
-      "assets/plants/044-1.jpeg"
+      "assets/byambaa/044.jpeg"
     ],
     "pages": [
       279,
@@ -3105,14 +3449,22 @@
     "src": "Улаан ном",
     "col": [],
     "mo": null,
-    "img": "assets/plants/044-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/044.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/044-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 15,
+      "label": "Цуулбар навчит зогдор өвс"
+    }
   },
   {
     "no": 45,
     "mn": "МОНГОЛ АЛТАНХУНДАГА",
     "images": [
-      "assets/plants/045-1.jpeg"
+      "assets/byambaa/045.jpeg"
     ],
     "pages": [
       280,
@@ -3181,14 +3533,22 @@
     "src": "Улаан данс",
     "col": [],
     "mo": null,
-    "img": "assets/plants/045-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/045.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/045-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 15,
+      "label": "Монгол алтанхундага"
+    }
   },
   {
     "no": 46,
     "mn": "ХАНГАЙН НАМУУ",
     "images": [
-      "assets/plants/046-1.jpeg"
+      "assets/byambaa/046.jpeg"
     ],
     "pages": [
       281,
@@ -3253,14 +3613,22 @@
     "src": "Улаан ном",
     "col": [],
     "mo": null,
-    "img": "assets/plants/046-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/046.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/046-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 15,
+      "label": "Хангайн намуу"
+    }
   },
   {
     "no": 47,
     "mn": "ЖИНХЭНЭ ТОМ-ҮРТ",
     "images": [
-      "assets/plants/047-1.jpeg"
+      "assets/byambaa/047.jpeg"
     ],
     "pages": [
       282,
@@ -3322,14 +3690,22 @@
     "src": "Улаан ном",
     "col": [],
     "mo": null,
-    "img": "assets/plants/047-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/047.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/047-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 16,
+      "label": "Жинхэнэ том үрт"
+    }
   },
   {
     "no": 48,
     "mn": "ЦАГААНЦЭЦЭГТ ЗУУЧ",
     "images": [
-      "assets/plants/048-1.jpeg"
+      "assets/byambaa/048.jpeg"
     ],
     "pages": [
       283,
@@ -3391,14 +3767,22 @@
     "src": "Улаан ном",
     "col": [],
     "mo": null,
-    "img": "assets/plants/048-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/048.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/048-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 16,
+      "label": "Цагаанцэцэгт зууч"
+    }
   },
   {
     "no": 49,
     "mn": "БҮНГИЙН САЛААГАНА",
     "images": [
-      "assets/plants/049-1.jpeg"
+      "assets/byambaa/049.jpeg"
     ],
     "pages": [
       284,
@@ -3461,14 +3845,22 @@
     "src": "Улаан ном",
     "col": [],
     "mo": null,
-    "img": "assets/plants/049-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/049.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/049-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 16,
+      "label": "Бүнгийн салаагана"
+    }
   },
   {
     "no": 50,
     "mn": "ГРУБОВЫН СУВДЛИГЦЭЦЭГ",
     "images": [
-      "assets/plants/050-1.jpeg"
+      "assets/byambaa/050.jpeg"
     ],
     "pages": [
       285,
@@ -3533,14 +3925,22 @@
     "src": "Улаан ном",
     "col": [],
     "mo": null,
-    "img": "assets/plants/050-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/050.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/050-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 16,
+      "label": "Грубовын сувдлиг цэцэг"
+    }
   },
   {
     "no": 51,
     "mn": "ТӨГРӨГНАВЧИТ ҮСТХИГ",
     "images": [
-      "assets/plants/051-1.jpeg"
+      "assets/byambaa/051.jpeg"
     ],
     "pages": [
       287,
@@ -3601,14 +4001,22 @@
     "src": "Улаан данс",
     "col": [],
     "mo": null,
-    "img": "assets/plants/051-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/051.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/051-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 17,
+      "label": "Төгрөг навчит үстхиг"
+    }
   },
   {
     "no": 52,
     "mn": "АНГЛИ ҮСТХИГ",
     "images": [
-      "assets/plants/052-1.jpeg"
+      "assets/byambaa/052.jpeg"
     ],
     "pages": [
       288,
@@ -3670,14 +4078,22 @@
     "src": "Улаан данс",
     "col": [],
     "mo": null,
-    "img": "assets/plants/052-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/052.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/052-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 17,
+      "label": "Англи үстхиг"
+    }
   },
   {
     "no": 53,
     "mn": "ЦАГААН МҮГЭЗ",
     "images": [
-      "assets/plants/053-1.jpeg"
+      "assets/byambaa/053.jpeg"
     ],
     "pages": [
       289,
@@ -3740,14 +4156,22 @@
     "src": "Улаан ном",
     "col": [],
     "mo": null,
-    "img": "assets/plants/053-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/053.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/053-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 17,
+      "label": "Цагаан мүгэз"
+    }
   },
   {
     "no": 54,
     "mn": "НҮЦГЭН ТОВЬЦЭЦЭГ",
     "images": [
-      "assets/plants/054-1.jpeg"
+      "assets/byambaa/054.jpeg"
     ],
     "pages": [
       290,
@@ -3813,14 +4237,22 @@
     "src": "Улаан данс",
     "col": [],
     "mo": null,
-    "img": "assets/plants/054-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/054.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/054-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 18,
+      "label": "Нүцгэн товьцэцэг"
+    }
   },
   {
     "no": 55,
     "mn": "ЭЛДЭВ-ҮСТ УЛААГАНА",
     "images": [
-      "assets/plants/055-1.jpeg"
+      "assets/byambaa/055.jpeg"
     ],
     "pages": [
       292,
@@ -3882,14 +4314,22 @@
     "src": "Улаан ном",
     "col": [],
     "mo": null,
-    "img": "assets/plants/055-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/055.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/055-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 18,
+      "label": "Элдэвүст улаагана"
+    }
   },
   {
     "no": 56,
     "mn": "ЦАГААН БОРОЛЗГОНО",
     "images": [
-      "assets/plants/056-1.jpeg"
+      "assets/byambaa/056.jpeg"
     ],
     "pages": [
       293,
@@ -3950,14 +4390,22 @@
     "src": "Улаан ном",
     "col": [],
     "mo": null,
-    "img": "assets/plants/056-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/056.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/056-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 18,
+      "label": "Цагаан боролзгоно"
+    }
   },
   {
     "no": 57,
     "mn": "ИКОННИКОВЫН ГИЧГЭНЭ",
     "images": [
-      "assets/plants/057-1.jpeg"
+      "assets/byambaa/057.jpeg"
     ],
     "pages": [
       294,
@@ -4021,14 +4469,22 @@
     "src": "Улаан ном",
     "col": [],
     "mo": null,
-    "img": "assets/plants/057-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/057.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/057-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 19,
+      "label": "Иконниковын гичгэнэ"
+    }
   },
   {
     "no": 58,
     "mn": "АЛАГЦЭЦЭГТ ГИЧГЭНЭ",
     "images": [
-      "assets/plants/058-1.jpeg"
+      "assets/byambaa/058.jpeg"
     ],
     "pages": [
       295,
@@ -4091,14 +4547,22 @@
     "src": "Улаан ном",
     "col": [],
     "mo": null,
-    "img": "assets/plants/058-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/058.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/058-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 19,
+      "label": "Алагцэцэгт гичгэнэ"
+    }
   },
   {
     "no": 59,
     "mn": "ПАВЛОВЫН ХУМИЛЖ",
     "images": [
-      "assets/plants/059-1.jpeg"
+      "assets/byambaa/059.jpeg"
     ],
     "pages": [
       296,
@@ -4163,14 +4627,22 @@
     "src": "Улаан ном",
     "col": [],
     "mo": null,
-    "img": "assets/plants/059-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/059.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/059-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 19,
+      "label": "Павловын хумилж"
+    }
   },
   {
     "no": 60,
     "mn": "ХАНГАЙН ХУМИЛЖ",
     "images": [
-      "assets/plants/060-1.jpeg"
+      "assets/byambaa/060.jpeg"
     ],
     "pages": [
       298,
@@ -4233,14 +4705,22 @@
     "src": "Улаан ном",
     "col": [],
     "mo": null,
-    "img": "assets/plants/060-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/060.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/060-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 20,
+      "label": "Хангайн хумилж"
+    }
   },
   {
     "no": 61,
     "mn": "АЛЬБЕРТИЙН САРНАЙ",
     "images": [
-      "assets/plants/061-1.jpeg"
+      "assets/byambaa/061.jpeg"
     ],
     "pages": [
       299,
@@ -4301,14 +4781,22 @@
     "src": "Улаан ном",
     "col": [],
     "mo": null,
-    "img": "assets/plants/061-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/061.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/061-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 20,
+      "label": "Альбертийн сарнай"
+    }
   },
   {
     "no": 62,
     "mn": "БЕГГЕРИЙН САРНАЙ",
     "images": [
-      "assets/plants/062-1.jpeg"
+      "assets/byambaa/062.jpeg"
     ],
     "pages": [
       301,
@@ -4370,14 +4858,22 @@
     "src": "Улаан ном",
     "col": [],
     "mo": null,
-    "img": "assets/plants/062-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/062.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/062-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 20,
+      "label": "Беггерийн сарнай"
+    }
   },
   {
     "no": 63,
     "mn": "ХАВТГАЙХАТГУУРТ САРНАЙ",
     "images": [
-      "assets/plants/063-1.jpeg"
+      "assets/byambaa/063.jpeg"
     ],
     "pages": [
       302,
@@ -4438,14 +4934,22 @@
     "src": "Улаан ном",
     "col": [],
     "mo": null,
-    "img": "assets/plants/063-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/063.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/063-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 20,
+      "label": "хавтгай хатгуурт сарнай"
+    }
   },
   {
     "no": 64,
     "mn": "КОКАНД САРНАЙ",
     "images": [
-      "assets/plants/064-1.jpeg"
+      "assets/byambaa/064.jpeg"
     ],
     "pages": [
       303,
@@ -4507,14 +5011,22 @@
     "src": "Улаан данс",
     "col": [],
     "mo": null,
-    "img": "assets/plants/064-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/064.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/064-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 21,
+      "label": "Коканд сарнай"
+    }
   },
   {
     "no": 65,
     "mn": "МОНГОЛ БҮЙЛЭЭС",
     "images": [
-      "assets/plants/065-1.jpeg"
+      "assets/byambaa/065.jpeg"
     ],
     "pages": [
       304,
@@ -4576,14 +5088,22 @@
     "src": "Улаан данс",
     "col": [],
     "mo": null,
-    "img": "assets/plants/065-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/065.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/065-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 21,
+      "label": "Монгол бүйлээс"
+    }
   },
   {
     "no": 66,
     "mn": "ШАРГАЛДУУ ЛИДЭР",
     "images": [
-      "assets/plants/066-1.jpeg"
+      "assets/byambaa/066.jpeg"
     ],
     "pages": [
       305,
@@ -4648,14 +5168,22 @@
     "src": "Улаан данс",
     "col": [],
     "mo": null,
-    "img": "assets/plants/066-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/066.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/066-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 21,
+      "label": "Шаргалдуу лидэр"
+    }
   },
   {
     "no": 67,
     "mn": "ГРУБОВЫН ТАРВАГАНШИЙР",
     "images": [
-      "assets/plants/067-1.jpeg"
+      "assets/byambaa/067.jpeg"
     ],
     "pages": [
       307,
@@ -4720,14 +5248,22 @@
     "src": "Улаан ном",
     "col": [],
     "mo": null,
-    "img": "assets/plants/067-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/067.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/067-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 22,
+      "label": "Грубовын тарваган шийр"
+    }
   },
   {
     "no": 68,
     "mn": "МОНГОЛ БУУРЦГАНА",
     "images": [
-      "assets/plants/068-1.jpeg"
+      "assets/byambaa/068.jpeg"
     ],
     "pages": [
       308,
@@ -4793,14 +5329,22 @@
     "src": "Улаан данс",
     "col": [],
     "mo": null,
-    "img": "assets/plants/068-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/068.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/068-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 22,
+      "label": "Монгол буурцгана"
+    }
   },
   {
     "no": 69,
     "mn": "ГРУБОВЫН ХӨӨНДИЙ",
     "images": [
-      "assets/plants/069-1.jpeg"
+      "assets/byambaa/069.jpeg"
     ],
     "pages": [
       309,
@@ -4865,14 +5409,22 @@
     "src": "Улаан данс",
     "col": [],
     "mo": null,
-    "img": "assets/plants/069-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/069.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/069-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 22,
+      "label": "Грубовын хөөндий"
+    }
   },
   {
     "no": 70,
     "mn": "ХЭВРЭГНАВЧИТ ОРТУУЗ",
     "images": [
-      "assets/plants/070-1.jpeg"
+      "assets/byambaa/070.jpeg"
     ],
     "pages": [
       311,
@@ -4939,14 +5491,22 @@
     "src": "Улаан данс",
     "col": [],
     "mo": null,
-    "img": "assets/plants/070-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/070.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/070-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 22,
+      "label": "Хэврэг навчит ортууз"
+    }
   },
   {
     "no": 71,
     "mn": "СУТАЙН ОРТУУЗ",
     "images": [
-      "assets/plants/071-1.jpeg"
+      "assets/byambaa/071.jpeg"
     ],
     "pages": [
       312,
@@ -5013,14 +5573,22 @@
     "src": "Улаан ном",
     "col": [],
     "mo": null,
-    "img": "assets/plants/071-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/071.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/071-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 23,
+      "label": "Сутайн ортууз"
+    }
   },
   {
     "no": 72,
     "mn": "ШОВГОР ХОТИР",
     "images": [
-      "assets/plants/072-1.jpeg"
+      "assets/byambaa/072.jpeg"
     ],
     "pages": [
       313,
@@ -5082,14 +5650,22 @@
     "src": "Улаан ном",
     "col": [],
     "mo": null,
-    "img": "assets/plants/072-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/072.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/072-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 23,
+      "label": "Шовгор хотир"
+    }
   },
   {
     "no": 73,
     "mn": "ОРХИГДМОЛ ХОТИР",
     "images": [
-      "assets/plants/073-1.jpeg"
+      "assets/byambaa/073.jpeg"
     ],
     "pages": [
       315,
@@ -5151,14 +5727,22 @@
     "src": "Улаан ном",
     "col": [],
     "mo": null,
-    "img": "assets/plants/073-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/073.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/073-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 23,
+      "label": "Орхигдмол хотир"
+    }
   },
   {
     "no": 74,
     "mn": "ТАГИЙН СҮҮТ-ӨВС",
     "images": [
-      "assets/plants/074-1.jpeg"
+      "assets/byambaa/074.jpeg"
     ],
     "pages": [
       316,
@@ -5222,14 +5806,22 @@
     "src": "Улаан ном",
     "col": [],
     "mo": null,
-    "img": "assets/plants/074-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/074.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/074-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 24,
+      "label": "Тагийн сүүт өвс"
+    }
   },
   {
     "no": 75,
     "mn": "ГЕБЛЕРИЙН АЛТАНЦЭГЦҮҮХЭЙ",
     "images": [
-      "assets/plants/075-1.jpeg"
+      "assets/byambaa/075.jpeg"
     ],
     "pages": [
       317,
@@ -5292,14 +5884,22 @@
     "src": "Улаан ном",
     "col": [],
     "mo": null,
-    "img": "assets/plants/075-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/075.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/075-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 24,
+      "label": "Геблерийн алтан цэгцүүхэй"
+    }
   },
   {
     "no": 76,
     "mn": "АРЗГАР СУХАЙ",
     "images": [
-      "assets/plants/076-1.jpeg"
+      "assets/byambaa/076.jpeg"
     ],
     "pages": [
       318,
@@ -5360,14 +5960,22 @@
     "src": "Улаан ном",
     "col": [],
     "mo": null,
-    "img": "assets/plants/076-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/076.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/076-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 24,
+      "label": "Арзгар сухай"
+    }
   },
   {
     "no": 77,
     "mn": "ТОЛГОДЫН НИЛ",
     "images": [
-      "assets/plants/077-1.jpeg"
+      "assets/byambaa/077.jpeg"
     ],
     "pages": [
       319,
@@ -5432,14 +6040,22 @@
     "src": "Улаан ном",
     "col": [],
     "mo": null,
-    "img": "assets/plants/077-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/077.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/077-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 25,
+      "label": "Толгодын нил"
+    }
   },
   {
     "no": 78,
     "mn": "АХАР-ЭВЭРТ НИЛ",
     "images": [
-      "assets/plants/078-1.jpeg"
+      "assets/byambaa/078.jpeg"
     ],
     "pages": [
       321,
@@ -5501,14 +6117,22 @@
     "src": "Улаан данс",
     "col": [],
     "mo": null,
-    "img": "assets/plants/078-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/078.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/078-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 25,
+      "label": "Ахар эвэрт нил"
+    }
   },
   {
     "no": 79,
     "mn": "МУРКРОФТЫН ЖИГД",
     "images": [
-      "assets/plants/079-1.jpeg"
+      "assets/byambaa/079.jpeg"
     ],
     "pages": [
       322,
@@ -5571,14 +6195,22 @@
     "src": "Улаан данс",
     "col": [],
     "mo": null,
-    "img": "assets/plants/079-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/079.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/079-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 25,
+      "label": "Муркроптын жигд"
+    }
   },
   {
     "no": 80,
     "mn": "ЗҮҮНГАРЫН ГОЁО [УЛААН ГОЁО]",
     "images": [
-      "assets/plants/080-1.jpeg"
+      "assets/byambaa/080.jpeg"
     ],
     "pages": [
       323,
@@ -5645,14 +6277,22 @@
     "src": "Улаан ном",
     "col": [],
     "mo": null,
-    "img": "assets/plants/080-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/080.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/080-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 25,
+      "label": "Зүүн гарын гоёо"
+    }
   },
   {
     "no": 81,
     "mn": "ХАВТАГНАВЧИТ ХӨХТОЛГОЙ",
     "images": [
-      "assets/plants/081-1.jpeg"
+      "assets/byambaa/081.jpeg"
     ],
     "pages": [
       325,
@@ -5715,14 +6355,22 @@
     "src": "Улаан ном",
     "col": [],
     "mo": null,
-    "img": "assets/plants/081-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/081.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/081-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 26,
+      "label": "Хавтаг навчит хөх толгой"
+    }
   },
   {
     "no": 82,
     "mn": "ДЭРЭВГЭР ЖИРГЭРҮҮ",
     "images": [
-      "assets/plants/082-1.jpeg"
+      "assets/byambaa/082.jpeg"
     ],
     "pages": [
       326,
@@ -5791,14 +6439,22 @@
     "src": "Улаан ном",
     "col": [],
     "mo": null,
-    "img": "assets/plants/082-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/082.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/082-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 26,
+      "label": "Дэрвэгэр жирвэгрүү"
+    }
   },
   {
     "no": 83,
     "mn": "ЗАЛААРХАГ ХАВРАГ",
     "images": [
-      "assets/plants/083-1.jpeg"
+      "assets/byambaa/083.jpeg"
     ],
     "pages": [
       327,
@@ -5862,14 +6518,22 @@
     "src": "Улаан данс",
     "col": [],
     "mo": null,
-    "img": "assets/plants/083-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/083.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/083-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 26,
+      "label": "Залаархаг хавраг"
+    }
   },
   {
     "no": 84,
     "mn": "ГАЖ СОЁЛЖ",
     "images": [
-      "assets/plants/084-1.jpeg"
+      "assets/byambaa/084.jpeg"
     ],
     "pages": [
       329,
@@ -5932,14 +6596,22 @@
     "src": "Улаан ном",
     "col": [],
     "mo": null,
-    "img": "assets/plants/084-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/084.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/084-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 26,
+      "label": "Гаж соёлж"
+    }
   },
   {
     "no": 85,
     "mn": "АЛТАН ТЭРЭЛЖ",
     "images": [
-      "assets/plants/085-1.jpeg"
+      "assets/byambaa/085.jpeg"
     ],
     "pages": [
       330,
@@ -6003,14 +6675,22 @@
     "src": "Улаан данс",
     "col": [],
     "mo": null,
-    "img": "assets/plants/085-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/085.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/085-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 27,
+      "label": "Алтан тэрэлж"
+    }
   },
   {
     "no": 86,
     "mn": "БЯЦХАНЖИМСТ ЦАНГИС",
     "images": [
-      "assets/plants/086-1.jpeg"
+      "assets/byambaa/086.jpeg"
     ],
     "pages": [
       332,
@@ -6072,14 +6752,22 @@
     "src": "Улаан данс",
     "col": [],
     "mo": null,
-    "img": "assets/plants/086-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/086.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/086-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 27,
+      "label": "Бяцхан жимст цангис"
+    }
   },
   {
     "no": 87,
     "mn": "БРОТЕРУСЫН УЛБУУДАЙ",
     "images": [
-      "assets/plants/087-1.jpeg"
+      "assets/byambaa/087.jpeg"
     ],
     "pages": [
       333,
@@ -6141,14 +6829,22 @@
     "src": "Улаан ном",
     "col": [],
     "mo": null,
-    "img": "assets/plants/087-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/087.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/087-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 27,
+      "label": "Бротерусын улбуудай"
+    }
   },
   {
     "no": 88,
     "mn": "ГАНГАН ЮЛТ",
     "images": [
-      "assets/plants/088-1.jpeg"
+      "assets/byambaa/088.jpeg"
     ],
     "pages": [
       334,
@@ -6211,14 +6907,22 @@
     "src": "Улаан ном",
     "col": [],
     "mo": null,
-    "img": "assets/plants/088-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/088.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/088-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 28,
+      "label": "Ганган юлт"
+    }
   },
   {
     "no": 89,
     "mn": "ГРУБОВЫН БЭРМЭГ",
     "images": [
-      "assets/plants/089-1.jpeg"
+      "assets/byambaa/089.jpeg"
     ],
     "pages": [
       336,
@@ -6283,14 +6987,22 @@
     "src": "Улаан ном",
     "col": [],
     "mo": null,
-    "img": "assets/plants/089-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/089.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/089-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 28,
+      "label": "Груыбовын бэрмэг"
+    }
   },
   {
     "no": 90,
     "mn": "БАНЗРАГЧИЙН ЗҮЛЭГЛИГ",
     "images": [
-      "assets/plants/090-1.jpeg"
+      "assets/byambaa/090.jpeg"
     ],
     "pages": [
       338,
@@ -6356,14 +7068,22 @@
     "src": "Улаан данс",
     "col": [],
     "mo": null,
-    "img": "assets/plants/090-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/090.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/090-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 28,
+      "label": "Банзрагчийн зүлэглиг"
+    }
   },
   {
     "no": 91,
     "mn": "ЧӨДӨР ЗЭЛЛЭГЦЭЦЭГ",
     "images": [
-      "assets/plants/091-1.jpeg"
+      "assets/byambaa/091.jpeg"
     ],
     "pages": [
       339,
@@ -6427,14 +7147,22 @@
     "src": "Улаан ном",
     "col": [],
     "mo": null,
-    "img": "assets/plants/091-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/091.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/091-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 28,
+      "label": "Чөдөр зэллэг цэцэг"
+    }
   },
   {
     "no": 92,
     "mn": "МАРТАГДСАН ЗЭЛЛЭГЦЭЦЭГ",
     "images": [
-      "assets/plants/092-1.jpeg"
+      "assets/byambaa/092.jpeg"
     ],
     "pages": [
       340,
@@ -6498,14 +7226,22 @@
     "src": "Улаан ном",
     "col": [],
     "mo": null,
-    "img": "assets/plants/092-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/092.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/092-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 29,
+      "label": "Мартдагдсан зэллэг цэцэг"
+    }
   },
   {
     "no": 93,
     "mn": "НААЛДАМХАЙ ГҮҮНХӨХ",
     "images": [
-      "assets/plants/093-1.jpeg"
+      "assets/byambaa/093.jpeg"
     ],
     "pages": [
       341,
@@ -6569,14 +7305,22 @@
     "src": "Улаан ном",
     "col": [],
     "mo": null,
-    "img": "assets/plants/093-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/093.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/093-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 29,
+      "label": "Наалдамхай гүүнхөх"
+    }
   },
   {
     "no": 94,
     "mn": "ПАУЛСЫН ГҮҮНХӨХ",
     "images": [
-      "assets/plants/094-1.jpeg"
+      "assets/byambaa/094.jpeg"
     ],
     "pages": [
       343,
@@ -6640,14 +7384,22 @@
     "src": "Улаан ном",
     "col": [],
     "mo": null,
-    "img": "assets/plants/094-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/094.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/094-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 29,
+      "label": "Паулсын гүүнхөх"
+    }
   },
   {
     "no": 95,
     "mn": "НҮЦГЭН МИЙНХУМС",
     "images": [
-      "assets/plants/095-1.jpeg"
+      "assets/byambaa/095.jpeg"
     ],
     "pages": [
       344,
@@ -6709,14 +7461,22 @@
     "src": "Улаан ном",
     "col": [],
     "mo": null,
-    "img": "assets/plants/095-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/095.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/095-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 30,
+      "label": "Нүцгэн мийнхумс"
+    }
   },
   {
     "no": 96,
     "mn": "НУГЫН ТУЙПЛАНЦАР",
     "images": [
-      "assets/plants/096-1.jpeg"
+      "assets/byambaa/096.jpeg"
     ],
     "pages": [
       345,
@@ -6779,14 +7539,22 @@
     "src": "Улаан ном",
     "col": [],
     "mo": null,
-    "img": "assets/plants/096-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/096.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/096-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 30,
+      "label": "Нугын туйланцар"
+    }
   },
   {
     "no": 97,
     "mn": "МОНГОЛ ТУЙПЛАНЦАР",
     "images": [
-      "assets/plants/097-1.jpeg"
+      "assets/byambaa/097.jpeg"
     ],
     "pages": [
       347,
@@ -6850,14 +7618,22 @@
     "src": "Улаан ном",
     "col": [],
     "mo": null,
-    "img": "assets/plants/097-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/097.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/097-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 30,
+      "label": "Монгол туйпланцар"
+    }
   },
   {
     "no": 98,
     "mn": "ЦӨЛИЙН МҮГВАА",
     "images": [
-      "assets/plants/098-1.jpeg"
+      "assets/byambaa/098.jpeg"
     ],
     "pages": [
       348,
@@ -6921,14 +7697,22 @@
     "src": "Улаан ном",
     "col": [],
     "mo": null,
-    "img": "assets/plants/098-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/098.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/098-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 31,
+      "label": "Цөлийн мүгваа"
+    }
   },
   {
     "no": 99,
     "mn": "ЦӨЛИЙН ГАНГА",
     "images": [
-      "assets/plants/099-1.jpeg"
+      "assets/byambaa/099.jpeg"
     ],
     "pages": [
       349,
@@ -6991,14 +7775,22 @@
     "src": "Улаан ном",
     "col": [],
     "mo": null,
-    "img": "assets/plants/099-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/099.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/099-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 31,
+      "label": "Цөлийн ганга"
+    }
   },
   {
     "no": 100,
     "mn": "ГОВЬ-АЛТАЙН ГАНГА",
     "images": [
-      "assets/plants/100-1.jpeg"
+      "assets/byambaa/100.jpeg"
     ],
     "pages": [
       350,
@@ -7065,14 +7857,22 @@
     "src": "Улаан ном",
     "col": [],
     "mo": null,
-    "img": "assets/plants/100-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/100.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/100-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 31,
+      "label": "Говь-алтайн ганга"
+    }
   },
   {
     "no": 101,
     "mn": "ТАНАМАЛ МАХИРС",
     "images": [
-      "assets/plants/101-1.jpeg"
+      "assets/byambaa/101.jpeg"
     ],
     "pages": [
       352,
@@ -7135,14 +7935,22 @@
     "src": "Улаан ном",
     "col": [],
     "mo": null,
-    "img": "assets/plants/101-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/101.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/101-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 31,
+      "label": "Танамал махирс"
+    }
   },
   {
     "no": 102,
     "mn": "ТӨВД ЛАНЦАЙ",
     "images": [
-      "assets/plants/102-1.jpeg"
+      "assets/byambaa/102.jpeg"
     ],
     "pages": [
       353,
@@ -7207,14 +8015,22 @@
     "src": "Улаан данс",
     "col": [],
     "mo": null,
-    "img": "assets/plants/102-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/102.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/102-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 32,
+      "label": "Төвд ланцай"
+    }
   },
   {
     "no": 103,
     "mn": "ШӨМБӨГӨР ХУВИЛАНГА",
     "images": [
-      "assets/plants/103-1.jpeg"
+      "assets/byambaa/103.jpeg"
     ],
     "pages": [
       354,
@@ -7276,14 +8092,22 @@
     "src": "Улаан ном",
     "col": [],
     "mo": null,
-    "img": "assets/plants/103-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/103.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/103-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 32,
+      "label": "Шөмбөгөр хувилгана"
+    }
   },
   {
     "no": 104,
     "mn": "БАВГАРТҮРҮҮТ ХУВИЛАНГА",
     "images": [
-      "assets/plants/104-1.jpeg"
+      "assets/byambaa/104.jpeg"
     ],
     "pages": [
       355,
@@ -7346,14 +8170,22 @@
     "src": "Улаан ном",
     "col": [],
     "mo": null,
-    "img": "assets/plants/104-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/104.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/104-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 32,
+      "label": "Бавгартүрүүт хувиланга"
+    }
   },
   {
     "no": 105,
     "mn": "ФЕДДИЙН АРГАМЖИНЦЭЦЭГ",
     "images": [
-      "assets/plants/105-1.jpeg"
+      "assets/byambaa/105.jpeg"
     ],
     "pages": [
       357,
@@ -7415,14 +8247,22 @@
     "src": "Улаан ном",
     "col": [],
     "mo": null,
-    "img": "assets/plants/105-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/105.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/105-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 33,
+      "label": "Феддийн аргамжинцэцэг"
+    }
   },
   {
     "no": 106,
     "mn": "ЦӨЛИЙН АРГАМЖИНЦЭЦЭГ",
     "images": [
-      "assets/plants/106-1.jpeg"
+      "assets/byambaa/106.jpeg"
     ],
     "pages": [
       358,
@@ -7485,14 +8325,22 @@
     "src": "Улаан данс",
     "col": [],
     "mo": null,
-    "img": "assets/plants/106-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/106.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/106-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 33,
+      "label": "Цөлийн аргамжинцэцэг"
+    }
   },
   {
     "no": 107,
     "mn": "ЭГЭЛ ТОСОНДОЙ",
     "images": [
-      "assets/plants/107-1.jpeg"
+      "assets/byambaa/107.jpeg"
     ],
     "pages": [
       359,
@@ -7556,14 +8404,22 @@
     "src": "Улаан ном",
     "col": [],
     "mo": null,
-    "img": "assets/plants/107-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/107.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/107-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 33,
+      "label": "Эгэл тосондой"
+    }
   },
   {
     "no": 108,
     "mn": "САРЖЕНТЫН БҮРЭЛГЭНЭ",
     "images": [
-      "assets/plants/108-1.jpeg"
+      "assets/byambaa/108.jpeg"
     ],
     "pages": [
       361,
@@ -7624,14 +8480,22 @@
     "src": "Улаан данс",
     "col": [],
     "mo": null,
-    "img": "assets/plants/108-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/108.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/108-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 34,
+      "label": "Саржентын бүрэлгэнэ"
+    }
   },
   {
     "no": 109,
     "mn": "МОНГОЛ БҮРЭЛГЭНЭ",
     "images": [
-      "assets/plants/109-1.jpeg"
+      "assets/byambaa/109.jpeg"
     ],
     "pages": [
       362,
@@ -7694,14 +8558,22 @@
     "src": "Улаан данс",
     "col": [],
     "mo": null,
-    "img": "assets/plants/109-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/109.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/109-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 34,
+      "label": "Монгол бүрэлгэнэ"
+    }
   },
   {
     "no": 110,
     "mn": "ЗЭНТГЭР БАМБАЙ",
     "images": [
-      "assets/plants/110-1.jpeg"
+      "assets/byambaa/110.jpeg"
     ],
     "pages": [
       363,
@@ -7764,14 +8636,22 @@
     "src": "Улаан ном",
     "col": [],
     "mo": null,
-    "img": "assets/plants/110-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/110.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/110-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 34,
+      "label": "Зэнтгэр бамбай"
+    }
   },
   {
     "no": 111,
     "mn": "САЙХАНЫ БАМБАЙ",
     "images": [
-      "assets/plants/111-1.jpeg"
+      "assets/byambaa/111.jpeg"
     ],
     "pages": [
       364,
@@ -7837,14 +8717,22 @@
     "src": "Улаан данс",
     "col": [],
     "mo": null,
-    "img": "assets/plants/111-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/111.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/111-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 34,
+      "label": "Сайханы бамбай"
+    }
   },
   {
     "no": 112,
     "mn": "ХАНГАЙН ХОНХЛОЙ",
     "images": [
-      "assets/plants/112-1.jpeg"
+      "assets/byambaa/112.jpeg"
     ],
     "pages": [
       366,
@@ -7907,14 +8795,22 @@
     "src": "Улаан ном",
     "col": [],
     "mo": null,
-    "img": "assets/plants/112-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/112.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/112-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 35,
+      "label": "Хангайн хонхлой"
+    }
   },
   {
     "no": 113,
     "mn": "ЗОГДОРГОНОРХУУ СҮҮН ОРХООДОЙ",
     "images": [
-      "assets/plants/113-1.jpeg"
+      "assets/byambaa/113.jpeg"
     ],
     "pages": [
       367,
@@ -7975,8 +8871,16 @@
     "src": "Улаан данс",
     "col": [],
     "mo": null,
-    "img": "assets/plants/113-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/113.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/113-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 35,
+      "label": "Зогдоргонорхуу сүүн орхоодой"
+    }
   },
   {
     "no": 114,
@@ -8050,7 +8954,7 @@
     "no": 115,
     "mn": "ЭЛСНИЙ МӨНХЦЭЦЭГ",
     "images": [
-      "assets/plants/115-1.jpeg"
+      "assets/byambaa/115.jpeg"
     ],
     "pages": [
       369,
@@ -8114,14 +9018,22 @@
     "src": "Улаан данс",
     "col": [],
     "mo": null,
-    "img": "assets/plants/115-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/115.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/115-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 35,
+      "label": "Элсний мөнхцэцэг"
+    }
   },
   {
     "no": 116,
     "mn": "ХАЛХЫН-ГОЛЫН ТУНХУУ",
     "images": [
-      "assets/plants/116-1.jpeg"
+      "assets/byambaa/116.jpeg"
     ],
     "pages": [
       371,
@@ -8186,14 +9098,22 @@
     "src": "Улаан ном",
     "col": [],
     "mo": null,
-    "img": "assets/plants/116-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/116.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/116-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 35,
+      "label": "Халхын голын тунхуу"
+    }
   },
   {
     "no": 117,
     "mn": "ДЭГЖИН ШИВААНТИГ",
     "images": [
-      "assets/plants/117-1.jpeg"
+      "assets/byambaa/117.jpeg"
     ],
     "pages": [
       373,
@@ -8255,14 +9175,22 @@
     "src": "Улаан ном",
     "col": [],
     "mo": null,
-    "img": "assets/plants/117-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/117.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/117-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 36,
+      "label": "Дэгжин шиваантиг"
+    }
   },
   {
     "no": 118,
     "mn": "ХАНГАЙН ШИВААНТИГ",
     "images": [
-      "assets/plants/118-1.jpeg"
+      "assets/byambaa/118.jpeg"
     ],
     "pages": [
       374,
@@ -8327,14 +9255,22 @@
     "src": "Улаан ном",
     "col": [],
     "mo": null,
-    "img": "assets/plants/118-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/118.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/118-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 36,
+      "label": "Хангайн шиваантиг"
+    }
   },
   {
     "no": 119,
     "mn": "МОНГОЛЧУУДЫН ТОСТ",
     "images": [
-      "assets/plants/119-1.jpeg"
+      "assets/byambaa/119.jpeg"
     ],
     "pages": [
       375,
@@ -8400,14 +9336,22 @@
     "src": "Улаан данс",
     "col": [],
     "mo": null,
-    "img": "assets/plants/119-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/119.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/119-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 36,
+      "label": "Монголчуудын тост"
+    }
   },
   {
     "no": 120,
     "mn": "МОНГОЛ ТОСТ",
     "images": [
-      "assets/plants/120-1.jpeg"
+      "assets/byambaa/120.jpeg"
     ],
     "pages": [
       376,
@@ -8470,14 +9414,22 @@
     "src": "Улаан ном",
     "col": [],
     "mo": null,
-    "img": "assets/plants/120-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/120.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/120-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 36,
+      "label": "Монгол тост"
+    }
   },
   {
     "no": 121,
     "mn": "ЧУЛУУРХАГ ШАРИЛЖ",
     "images": [
-      "assets/plants/121-1.jpeg"
+      "assets/byambaa/121.jpeg"
     ],
     "pages": [
       378,
@@ -8539,14 +9491,22 @@
     "src": "Улаан данс",
     "col": [],
     "mo": null,
-    "img": "assets/plants/121-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/121.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/121-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 36,
+      "label": "Чулуурхаг шарилж"
+    }
   },
   {
     "no": 122,
     "mn": "ЖАНЗ ШАРИЛЖ",
     "images": [
-      "assets/plants/122-1.jpeg"
+      "assets/byambaa/122.jpeg"
     ],
     "pages": [
       379,
@@ -8613,14 +9573,22 @@
     "src": "Улаан данс",
     "col": [],
     "mo": null,
-    "img": "assets/plants/122-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/122.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/122-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 37,
+      "label": "Жанз шарилж"
+    }
   },
   {
     "no": 123,
     "mn": "ИЛЬИНИЙ ААРНИГ",
     "images": [
-      "assets/plants/123-1.jpeg"
+      "assets/byambaa/123.jpeg"
     ],
     "pages": [
       380,
@@ -8683,14 +9651,22 @@
     "src": "Улаан данс",
     "col": [],
     "mo": null,
-    "img": "assets/plants/123-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/123.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/123-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 37,
+      "label": "Ильиний аарниг"
+    }
   },
   {
     "no": 124,
     "mn": "ДӨЛ ЗОХИМОН",
     "images": [
-      "assets/plants/124-1.jpeg"
+      "assets/byambaa/124.jpeg"
     ],
     "pages": [
       382,
@@ -8752,14 +9728,22 @@
     "src": "Улаан ном",
     "col": [],
     "mo": null,
-    "img": "assets/plants/124-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/124.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/124-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 37,
+      "label": "Дөл зохимон"
+    }
   },
   {
     "no": 125,
     "mn": "ЗҮҮНГАРЫН ЗАЯАХАЙ",
     "images": [
-      "assets/plants/125-1.jpeg"
+      "assets/byambaa/125.jpeg"
     ],
     "pages": [
       383,
@@ -8821,14 +9805,22 @@
     "src": "Улаан ном",
     "col": [],
     "mo": null,
-    "img": "assets/plants/125-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/125.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/125-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 37,
+      "label": "Зүүнгарын заяахай"
+    }
   },
   {
     "no": 126,
     "mn": "УДМЫН АРЗГАНА",
     "images": [
-      "assets/plants/126-1.jpeg"
+      "assets/byambaa/126.jpeg"
     ],
     "pages": [
       384,
@@ -8890,14 +9882,22 @@
     "src": "Улаан ном",
     "col": [],
     "mo": null,
-    "img": "assets/plants/126-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/126.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/126-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 38,
+      "label": "Удмын арзгана"
+    }
   },
   {
     "no": 127,
     "mn": "НӨМРӨГТ БАНЗДОО",
     "images": [
-      "assets/plants/127-1.jpeg"
+      "assets/byambaa/127.jpeg"
     ],
     "pages": [
       386,
@@ -8963,14 +9963,22 @@
     "src": "Улаан данс",
     "col": [],
     "mo": null,
-    "img": "assets/plants/127-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/127.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/127-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 38,
+      "label": "Нөмрөгт банздоо"
+    }
   },
   {
     "no": 128,
     "mn": "ЕКАТЕРИНЫ БАНЗДОО",
     "images": [
-      "assets/plants/128-1.jpeg"
+      "assets/byambaa/128.jpeg"
     ],
     "pages": [
       387,
@@ -9032,14 +10040,22 @@
     "src": "Улаан ном",
     "col": [],
     "mo": null,
-    "img": "assets/plants/128-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/128.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/128-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 38,
+      "label": "Екатерины банздоо"
+    }
   },
   {
     "no": 129,
     "mn": "ДОРОГОСТАЙСКИЙН БАНЗДОО",
     "images": [
-      "assets/plants/129-1.jpeg"
+      "assets/byambaa/129.jpeg"
     ],
     "pages": [
       388,
@@ -9104,14 +10120,22 @@
     "src": "Улаан данс",
     "col": [],
     "mo": null,
-    "img": "assets/plants/129-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/129.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/129-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 38,
+      "label": "Дорогостайскийн банздоо"
+    }
   },
   {
     "no": 130,
     "mn": "КЛЕМЕНЦИЙН БАНЗДОО",
     "images": [
-      "assets/plants/130-1.jpeg"
+      "assets/byambaa/130.jpeg"
     ],
     "pages": [
       390,
@@ -9175,14 +10199,22 @@
     "src": "Улаан ном",
     "col": [],
     "mo": null,
-    "img": "assets/plants/130-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/130.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/130-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 38,
+      "label": "Клеменцийн банздоо"
+    }
   },
   {
     "no": 131,
     "mn": "АРЗГАРЖИМСТ ЧОНОГОНО",
     "images": [
-      "assets/plants/131-1.jpeg"
+      "assets/byambaa/131.jpeg"
     ],
     "pages": [
       391,
@@ -9246,14 +10278,22 @@
     "src": "Улаан ном",
     "col": [],
     "mo": null,
-    "img": "assets/plants/131-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/131.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/131-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 39,
+      "label": "Арзгаржимст чоногоно"
+    }
   },
   {
     "no": 132,
     "mn": "ЛОМОНОСОВЫН ХАСЗУЛ",
     "images": [
-      "assets/plants/132-1.jpeg"
+      "assets/byambaa/132.jpeg"
     ],
     "pages": [
       392,
@@ -9316,14 +10356,22 @@
     "src": "Улаан данс",
     "col": [],
     "mo": null,
-    "img": "assets/plants/132-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/132.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/132-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 39,
+      "label": "Ломоносовын хасзул"
+    }
   },
   {
     "no": 133,
     "mn": "ГРУБОВЫН ХАВИСГАНА",
     "images": [
-      "assets/plants/133-1.jpeg"
+      "assets/byambaa/133.jpeg"
     ],
     "pages": [
       393,
@@ -9386,14 +10434,22 @@
     "src": "Улаан ном",
     "col": [],
     "mo": null,
-    "img": "assets/plants/133-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/133.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/133-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 39,
+      "label": "Грубовын хависгана"
+    }
   },
   {
     "no": 134,
     "mn": "БЯЦХАНЦЭЦЭГТ ХАВИСГАНА",
     "images": [
-      "assets/plants/134-1.jpeg"
+      "assets/byambaa/134.jpeg"
     ],
     "pages": [
       395,
@@ -9455,14 +10511,22 @@
     "src": "Улаан ном",
     "col": [],
     "mo": null,
-    "img": "assets/plants/134-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/134.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/134-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 39,
+      "label": "Бяцхан цэцэгт хависгана"
+    }
   },
   {
     "no": 135,
     "mn": "ЧҮЙН БАНГА",
     "images": [
-      "assets/plants/135-1.jpeg"
+      "assets/byambaa/135.jpeg"
     ],
     "pages": [
       396,
@@ -9525,7 +10589,15 @@
     "src": "Улаан ном",
     "col": [],
     "mo": null,
-    "img": "assets/plants/135-1.jpeg",
-    "source": "sources/mongolian-red-book.pdf"
+    "img": "assets/byambaa/135.jpeg",
+    "source": "sources/mongolian-red-book.pdf",
+    "referenceImages": [
+      "assets/plants/135-1.jpeg"
+    ],
+    "imageSource": {
+      "file": "sources/byambaa.pdf",
+      "page": 39,
+      "label": "Чүйн банга"
+    }
   }
 ]

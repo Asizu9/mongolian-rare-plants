@@ -23,7 +23,7 @@ const IU = {'устаж байгаа':'CR','устаж болзошгүй':'EN',
 const iu = s => s ? s.charAt(0).toUpperCase() + s.slice(1) + (IU[s] ? ` (${IU[s]})` : '') : 'Эх сурвалжид заагаагүй';
 const RL = D.filter(p => p.src === 'Улаан данс');
 const VW = {
-  redbook: {t:'Монгол улсын Улаан ном',items:D,ft:'Монголын Улаан ном (2013), Дээд ургамал: №1–135. Мэдээлэл, зураг нь хэрэглэгчийн өгсөн PDF эхээс авсан.'},
+  redbook: {t:'Монгол улсын Улаан ном',items:D,ft:'Монголын Улаан ном (2013), Дээд ургамал: №1–135. Мэдээлэл, тархацын зураг: Улаан ном. Шинэ гэрэл зургууд: BYAMBAA.pdf.'},
   redlist: {t:'Дэлхийн ургамлын Улаан дансны сан',items:RL,ft:'Энд Монголын Улаан ном (2013)-д дурдсан IUCN үнэлгээг харуулна. Үнэлгээ нь тухайн номын үеийн мэдээлэл.'},
   regions: {t:'Ургах бүс нутаг',items:D,ft:'Зургаан бүсийн шүүлтүүр нь Монгол дахь тархац, ургах орчны бичвэрийн түлхүүр үгт тулгуурласан. Нэг ургамал хэд хэдэн бүсэд багтаж болно. Бүс тодорхойлоогүй ургамлуудыг «Бүгд»-ээс үзнэ. Бүрэн тархацыг дэлгэрэнгүй мэдээллээс шалгана.'}
 };
@@ -59,7 +59,7 @@ function draw() {
     const badge=view==='redlist'?iu(p.ir):p.cat;
     const code=view==='redlist'?(IU[p.ir]||'NA'):(p.cat==='Нэн ховор'?'NH':'');
     const sub=view==='regions'?(zonesFor(p).join(', ')||'Бүс тодорхойлоогүй'):view==='redlist'?`Олон улс: ${iu(p.iw)}`:`№${p.no} · ${p.fam}`;
-    return `<button class="card" data-no="${p.no}"><div class="im"><img src="${esc(p.img)}" alt="${esc(p.mn)} — эх номын зураг, тархац" loading="lazy"><span class="b ${code}">${esc(badge)}</span></div><div class="tx"><h3>${esc(p.mn)}</h3><div class="la">${esc(p.la)}</div><div class="mt">${esc(sub)}</div></div></button>`;
+    return `<button class="card" data-no="${p.no}"><div class="im ${p.imageSource ? 'plant-photo' : ''}"><img src="${esc(p.img)}" alt="${esc(p.mn)} — ургамлын зураг" loading="lazy"><span class="b ${code}">${esc(badge)}</span></div><div class="tx"><h3>${esc(p.mn)}</h3><div class="la">${esc(p.la)}</div><div class="mt">${esc(sub)}</div></div></button>`;
   }).join(''):'<p class="empty">Тохирох ургамал олдсонгүй. Шүүлтүүрээ багасгана уу.</p>';
 }
 ['q','cat','iw','ir','fam','hab'].forEach(id=>$('#'+id).addEventListener('input',draw));
@@ -67,8 +67,10 @@ $('#grid').onclick=e=>{
   const b=e.target.closest('.card');if(!b)return;
   const p=D.find(p=>p.no===Number(b.dataset.no));
   const row=(k,v)=>v?`<div class="r"><b>${esc(k)}</b>${esc(v)}</div>`:'';
-  $('#det').innerHTML=p.images.map(src=>`<div class="hero"><img src="${esc(src)}" alt="${esc(p.mn)} — зураг ба тархацын газрын зураг"></div>`).join('')+
-    `<div class="cap">Эх номын зураг, тархацын газрын зураг · №${p.no}</div><div class="dl"><h2>${esc(p.mn)}</h2><div class="la">${esc(p.laFull)}</div>`+
+  $('#det').innerHTML=p.images.map(src=>`<div class="hero ${p.imageSource ? 'plant-photo' : ''}"><img src="${esc(src)}" alt="${esc(p.mn)} — ургамлын зураг"></div>`).join('')+
+    `<div class="cap">${p.imageSource ? `Зургийн эх: <a class="source-link" href="${esc(p.imageSource.file)}#page=${p.imageSource.page}" target="_blank" rel="noopener">BYAMBAA.pdf · ${p.imageSource.page}-р хуудас ↗</a>` : 'Эх номын зураг, тархацын газрын зураг'} · №${p.no}</div>`+
+    (p.referenceImages ? `<details class="reference-map"><summary>Улаан номын тархацын зураг, эх дүрслэл</summary>${p.referenceImages.map(src=>`<img src="${esc(src)}" alt="${esc(p.mn)} — Улаан номын тархацын зураг, эх дүрслэл" loading="lazy">`).join('')}</details>` : '')+
+    `<div class="dl"><h2>${esc(p.mn)}</h2><div class="la">${esc(p.laFull)}</div>`+
     row('Овог',`${p.fam} — ${p.famMN}`)+row('Бүлэг',p.division)+
     p.sections.map(s=>row(s.title,s.text)).join('')+
     `<p class="note">Эх сурвалж: Монголын Улаан ном, 2013. №${p.no}. PDF-ийн ${p.pages[0]}–${p.pages.at(-1)}-р хуудас.<br><a class="source-link" href="${p.source}#page=${p.pages[0]}" target="_blank" rel="noopener">Эх номын хуудсыг нээх ↗</a></p><details class="source-text"><summary>Эхээс гаргасан бүрэн бичвэр</summary><pre>${esc(p.fullText)}</pre></details></div>`;
